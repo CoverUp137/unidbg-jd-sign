@@ -16,7 +16,7 @@ mvn package
 把application.properties 复制到 jar包所在目录 方便修改
 
 ### 使用jar包
-'''
+```
 java -jar unidbg-server-1.0.0.jar 
-'''
+```
 
